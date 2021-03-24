@@ -2,7 +2,7 @@
 - 👀 I have 13 years experience doing full-stack development with Coldfusion, HTML and Javascript (JQuery).
 - 🌱 I’m currently learning Node JS, React and Next JS for new projects
 
-- 📫 You can reach me on Twitter @brilang
+- 📫 You can reach me on Twitter [@brilang](https://twitter.com/brilang)
 
 <!---
 brilang/brilang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
