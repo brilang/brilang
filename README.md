@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brilang
-- 👀 I’m ahve 13 years experience doing full-stack development with Coldfusion, HTML and Javascript (JQuery).
+- 👀 I have 13 years experience doing full-stack development with Coldfusion, HTML and Javascript (JQuery).
 - 🌱 I’m currently learning Node JS, React and Next JS for new projects
 
 - 📫 You can reach me on Twitter @brilang
